@@ -91,7 +91,7 @@ special_commands_func = {
         "scene": lambda: scenemaker()}
 
 special_commands = {
-        "stats": player.stats,
+        "stats": "You might want to exit, then run the program again on this savefile to refresh these, but anyway...\n\n" + player.stats,
         "help": """At any time in this playthrough, you can use the following commands.
     1) stats -- This prints out your character's current statistics (e.g. their attack_strength, defense, etc.)
     2) scene -- This prints out the current scene using coloured ASCII art.
