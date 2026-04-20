@@ -1,7 +1,7 @@
 Code written in full by Fredrick Farouk.
 Sprites were mostly drawn by Hassan Saheb.
 
-This project was made for my first ever in-school hackathon for the school year 2024-2025, taking up about two weeks, where I spent roughly 2-3 hours per day on coding.
+This project was made for my first ever in-school hackathon for the school year 2024-2025, going from March 20 to April 18, where I spent roughly 1-2 hours per day on most days on coding, and more towards the end.
 
 Reflecting now, I can see many improvements I could have made, such as a more proper implementation of the levelling system, being more careful with using pillow (there is slight image corruption on sprite integration), and better scheduling. Also, I probably should have used a good code editor instead of vim.
 
