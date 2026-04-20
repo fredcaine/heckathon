@@ -102,7 +102,7 @@ special_commands = {
     "credits": """
     All the code        --          Fredrick Wans   8U
     All the sprites     --          Hassan Saheb    8K
-    Emotional support   --          Ahmed Sayed     8N  (also was in charge of pissing off Fredrick, (me))\n\n"""}
+    Support             --          Ahmed Sayed     8N\n\n"""}
 
 
 def custom_input(prompt=""):  # so that scene works
