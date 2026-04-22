@@ -17,7 +17,7 @@ This project was made for my first ever in-school hackathon for the school year 
 
 Reflecting now, I can see many improvements I could have made, such as a more proper implementation of the levelling system, being more careful with using pillow (there is slight image corruption on sprite integration), and better scheduling.  
 
-Also, I probably should have used a good code editor instead of vim.
+Also, I probably should have used a good code editor as opposed to vim.
 
 But for the purposes of the hackathon, this project worked perfect, and my team won that year.
 
